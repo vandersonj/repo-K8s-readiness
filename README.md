@@ -2,5 +2,10 @@
 
 --------------------------------------
 
-->  Resource Request e Resource Limits
+->  Resource Request
+->  Resource Limits
+
+--------------------------------------
+
+-> LimitRange
 
