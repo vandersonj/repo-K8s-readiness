@@ -1,2 +1,2 @@
-curl --data "millicores=130&durationSec=30" http://ip-loadbalancer/ConsumeCPU
+curl --data "millicores=130&durationSec=120" http://ip-loadbalancer/ConsumeCPU
 curl --data "megabytes=20&durationSec=30" http://ip-loadbalancer/ConsumeMem 
