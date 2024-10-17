@@ -1,4 +1,6 @@
-->  Startup, Readiness, Liveness Probes
+-> Startup
+-> Readiness
+-> Liveness Probes
 
 --------------------------------------
 
@@ -8,4 +10,7 @@
 --------------------------------------
 
 -> LimitRange
+-> Resource Quota
+
+
 
