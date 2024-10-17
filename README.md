@@ -1,16 +1,16 @@
--> Startup
--> Readiness
--> Liveness Probes
+-> Startup  
+-> Readiness  
+-> Liveness Probes  
 
 --------------------------------------
 
-->  Resource Request
-->  Resource Limits
+->  Resource Request  
+->  Resource Limits  
 
 --------------------------------------
 
--> LimitRange
--> Resource Quota
+-> LimitRange  
+-> Resource Quota  
 
 
 
